@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_mapa"
+            android:title="Mapa" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_habitacones"
+            android:title="Nuestro Hotel" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_hotel"
+            android:title="Habitaciones" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_restaurante"
+            android:title="Restaurante" />
+        <item
+            android:id="@+id/nav_recreacion"
+            android:icon="@drawable/ic_menu_recreacion"
+            android:title="Recreación" />
+
+        <item
+            android:id="@+id/nav_buscanos"
+            android:icon="@drawable/ic_menu_contac"
+            android:title="Buscanos" />
+    </group>
+
+
+
+</menu>
